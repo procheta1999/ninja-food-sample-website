@@ -9,9 +9,12 @@ module.exports = {
       colors:{
         primary: '#FF6363',
         secondary:{
-          100: 'black',
+          100: 'white',
           200: '#888883',
         }
+      },
+      fontFamily:{
+        body:['Nunito']
       }
     },
   },
